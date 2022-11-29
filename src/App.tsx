@@ -9,7 +9,6 @@ import i18n from "./i18n/i18n";
 
 function App() {
   const lang = navigator.language.split(/[-_]/).join("").toLocaleLowerCase();
-  console.log(lang);
 
   useEffect(() => {
     i18n.changeLanguage(lang);
