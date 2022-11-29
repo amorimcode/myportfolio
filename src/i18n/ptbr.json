@@ -1,0 +1,14 @@
+{
+  "APP": {
+    "PAGES": {
+      "HOME": {
+        "TEST": "DASDASDASDASD"
+      }
+    },
+    "COMPONENTS": {
+      "HEADER": {
+        "NAME": "Bruno Amorim"
+      }
+    }
+  }
+}

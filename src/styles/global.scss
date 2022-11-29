@@ -1,0 +1,17 @@
+$primary: #e60000;
+$secondary: #565656;
+$white: #fbfcff;
+$gray: #7a7d7d;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  background: #100b00;
+  -webkit-font-smoothing: antialiased;
+}

@@ -1,0 +1,22 @@
+@import "../../styles/global.scss";
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .name-title {
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    color: $white;
+    text-decoration: none;
+  }
+
+  .links {
+    padding: 1rem;
+    background: $secondary;
+    color: $white;
+    text-decoration: none;
+  }
+}
