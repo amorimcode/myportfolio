@@ -8,9 +8,9 @@
     "COMPONENTS": {
       "HEADER": {
         "NAME": "Bruno Amorim",
-        "START": "Início",
-        "ABOUT": "Sobre",
-        "PROJECTS": "Projetos"
+        "START": "Home",
+        "ABOUT": "About",
+        "PROJECTS": "Projects"
       }
     }
   }

@@ -10,7 +10,8 @@ const Header = () => {
     <header>
       <h1 className="name-title">{t("APP.COMPONENTS.HEADER.NAME")}</h1>
       <div className="links">
-        <Link to="/"></Link>
+        <Link to="/">{t("APP.COMPONENTS.HEADER.START")}</Link>
+        <Link to="/projects">{t("APP.COMPONENTS.HEADER.PROJECTS")}</Link>
       </div>
     </header>
   );
